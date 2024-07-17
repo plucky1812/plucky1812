@@ -24,7 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=plucky1812&show_icons=true&locale=en" alt="plucky1812" /></p>
 
-**plucky1812/plucky1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
